@@ -45,3 +45,10 @@ enter text:/*hello*/
 Process exited after 7.707 seconds with return value 0
 Press any key to continue . . .
 
+ enter text:hello
+
+ it is not a comment!
+--------------------------------
+Process exited after 16.1 seconds with return value 0
+Press any key to continue . . .
+
